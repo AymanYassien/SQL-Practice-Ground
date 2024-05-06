@@ -1,5 +1,6 @@
 # SQL-Practice-Ground
-Level up your SQL!  5 ERDs, 50+ practice problems, &amp; basic scripts for beginners to hone their skills. 
+Level up My SQL!  5 ERDs, 50+ practice problems, &amp; basic scripts for beginners, T-SQL .. Soon
+
 
 # Welcome to SQL-Practice-Ground!
 
