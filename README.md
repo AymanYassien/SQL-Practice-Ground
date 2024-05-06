@@ -1,5 +1,5 @@
 # SQL-Practice-Ground
-Level up My SQL!  5 ERDs, 50+ practice problems, &amp; basic scripts for beginners, T-SQL .. Soon
+Level up My SQL!  5 ERDs, 50+ practice problems, &amp; basic scripts for beginners, T-SQL .. will Completely added Soon
 
 
 # Welcome to SQL-Practice-Ground!
